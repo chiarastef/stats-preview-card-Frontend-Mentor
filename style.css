@@ -21,7 +21,7 @@ body {
   background-color: #1b1938;
   max-width: 1100px;
   margin: 120px auto 5px;
-  border-radius: 5px;
+  border-radius: 6px;
 }
 
 .first-column {
@@ -52,11 +52,12 @@ body {
   width: 49%;
   background-image: url(./images/image-header-desktop.jpg);
   background-size: cover;
-  border-radius: 0 5px 5px 0;
+  border-radius: 0 6px 6px 0;
 }
 
 .overlay {
   background-color: #7600c0;
+  border-radius: 0 6px 6px 0;
   opacity: 0.4;
   width: 100%;
   height: 100%;
@@ -97,4 +98,35 @@ body {
 }
 
 @media (max-width: 1200px) {
+  .card {
+    max-width: 750px;
+    margin-top: 100px;
+  }
+
+  .first-column {
+    padding: 40px 60px 50px 40px;
+  }
+
+  .first-column h1 {
+    font-size: 33px;
+    margin-bottom: 23px;
+    padding-right: 25px;
+  }
+
+  .first-column p {
+    font-size: 14px;
+    margin-bottom: 55px;
+  }
+
+  .stats .stat-number {
+    font-size: 20px;
+  }
+
+  .stats .stat-heading {
+    font-size: 12px;
+  }
+
+  .second-column {
+    background-position: center;
+  }
 }
