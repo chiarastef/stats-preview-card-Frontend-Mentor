@@ -24,6 +24,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Chiara Stefanelli](https://vibrant-varahamihira-10fe2d.netlify.app/)
+- Website - [Chiara Stefanelli](https://chiarastefanelli.netlify.app/)
 - Frontend Mentor - [@chiarastef](https://www.frontendmentor.io/profile/chiarastef)
 - LinkedIn - [Chiara Stefanelli](https://www.linkedin.com/in/chiarastefanelli/?locale=en_US)
